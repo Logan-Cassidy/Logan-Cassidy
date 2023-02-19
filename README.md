@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Logan-Cassidy
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning : Python, Html, CSS, PHP and JavaScript.
+- 🌱 I’m currently learning : Python, Html, CSS, PHP, JavaScript, SQL and Java.
 - 💞️ I’m looking to collaborate on : Nothing Yet
 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
